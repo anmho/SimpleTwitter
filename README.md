@@ -2,7 +2,7 @@
 
 ## Overview
 
-RestClientTemplate is a skeleton Android project that makes writing Android apps sourced from OAuth JSON REST APIs as easy as possible. This skeleton project
+SimpleTwitter is a skeleton Android project that makes writing Android apps sourced from OAuth JSON REST APIs as easy as possible. This skeleton project
 combines the best libraries and structure to enable quick development of rich API clients. The following things are supported out of the box:
 
  * Authenticating with any OAuth 1.0a or OAuth 2 API
